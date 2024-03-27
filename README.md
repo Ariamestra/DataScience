@@ -17,6 +17,8 @@ Demand Forecast
 
 ## Stock Market Prediction
 
-# Celebrity Faces
+##  Celebrity Faces
 [Data](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)
 [Article](https://towardsdatascience.com/celebrity-face-generation-with-deep-convolutional-gans-40b96147a1c9)
+
+## Brain Tumor
