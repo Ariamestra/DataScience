@@ -2,7 +2,7 @@
 
 ## Products Project 
 [Products Dataset](https://www.kaggle.com/datasets/mfsoftworks/cosmetic-products/data)
-Image Recognition and Product Classification
+Product Recommendation
 
 ## Cosmetic Project 
 [Cosmetic Dataset](https://www.kaggle.com/datasets/jithinanievarghese/cosmetics-and-beauty-products-reviews-top-brands)
