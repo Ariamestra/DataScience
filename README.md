@@ -10,9 +10,6 @@ This project is a text-based product recommendation system for beauty products. 
 
 This project analyzes cosmetic product reviews from a popular online retail dataset. The dataset provides a good foundation for sentiment analysis and trend observation. The notebook utilizes the `pandas` library for data manipulation, `matplotlib` for visualizing trends, and `TextBlob` for conducting sentiment analysis. The visualize the average monthly rating trends and the sentiment expressed in review titles and texts. By applying sentiment analysis to the textual reviews, we want to understand the underlying emotions and opinions of customers towards the products. For anyone lookinginto consumer behavior analysis, this notebook offers an organized methodology for insightful data analysis.
 
-## Gender and Age Prediction
-[Data](https://github.com/smahesh29/Gender-and-Age-Detection)
-
 ## Chatbot
 [Data](https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK)
 
@@ -22,4 +19,4 @@ This project analyzes cosmetic product reviews from a popular online retail data
 [Data](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)
 [Article](https://towardsdatascience.com/celebrity-face-generation-with-deep-convolutional-gans-40b96147a1c9)
 
-## Brain Tumor
+
